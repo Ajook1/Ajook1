@@ -28,39 +28,75 @@ I am a **passionate, disciplined, and growth-focused software developer** who en
 - Focus on **clean, maintainable, scalable code**
 
 ---
-
 ## 🧠 Skills & Technologies
+
+<!-- ===== Animated Gradient Divider ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,sql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,sql&theme=dark&perline=6" />
 </p>
+<p align="center">
+  <i>Strong fundamentals with backend-oriented problem solving</i>
+</p>
+
+---
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=6" />
 </p>
+<p align="center">
+  <i>Component-based UI development with API-driven architecture</i>
+</p>
+
+---
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android&perline=6" />
+  <img src="https://skillicons.dev/icons?i=android&theme=dark&perline=6" />
 </p>
+<p align="center">
+  <i>Native Android development focused on performance and UX</i>
+</p>
+
+---
 
 ### ⚙️ Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=6" />
+</p>
+<p align="center">
+  <i>REST APIs, backend logic, and scalable system design</i>
 </p>
 
-### 🔗 Libraries & Tools
+---
+
+### 🔗 Libraries, Tools & Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=axios,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=axios,git,github&theme=dark&perline=6" />
 </p>
+<p align="center">
+  <i>API communication, version control, and collaborative workflows</i>
+</p>
+
+---
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=6" />
+</p>
+<p align="center">
+  <i>Relational database design, queries, and data consistency</i>
 </p>
 
+<!-- ===== Animated Gradient Divider ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
 ---
 
 ## 📦 Featured Project
