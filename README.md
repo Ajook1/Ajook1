@@ -12,21 +12,31 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-🎓 **Computer Engineering Graduate** from **MGM COE, Nanded**  
-📍 **Nanded, Maharashtra, India 🇮🇳**
+<p>
+I am <b>Yash Mahajan</b> (<code>AJOOK1</code>) — a passionate <b>Java, Full-Stack, and Android Developer</b>
+with a strong focus on <b>backend systems, databases, and real-world application design</b>.
+</p>
 
-I am a **passionate, disciplined, and growth-focused software developer** who enjoys building **complete real-world applications** — from frontend UI to backend logic and database design.
+<p>
+🎓 Computer Engineering Graduate from <b>MGM COE, Nanded</b><br/>
+📍 Nanded, Maharashtra, India 🇮🇳
+</p>
 
-💡 What defines me:
-- Strong fundamentals in **Java & OOP**
-- Practical **full-stack development** experience
-- Backend & database-centric thinking
-- Hackathon mindset & problem-solver attitude
-- Focus on **clean, maintainable, scalable code**
+<p>
+I enjoy building applications that go beyond tutorials —
+systems that are <b>cleanly structured, scalable, and easy to maintain</b>.
+I believe strong fundamentals, consistency, and curiosity are what shape a solid engineer.
+</p>
 
+<p>
+💡 <i>My goal is simple: learn deeply, build meaningfully, and grow continuously.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=700&lines=Backend-first+thinking;Clean+code+over+quick+hacks;Full-stack+with+strong+fundamentals;Always+learning%2C+always+building" />
+</p>
 ---
 ## 🧠 Skills & Technologies
 
