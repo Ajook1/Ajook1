@@ -129,19 +129,30 @@ This project clearly reflects my ability to **design, build, and connect complet
 🏅 **District Level 2nd Rank** – Avishkar Competition  
 
 ---
-
 ## 📊 GitHub Analytics
 
+<!-- ===== GitHub Stats ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajook1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AJOOK1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
+<!-- ===== GitHub Streak ===== -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ajook1&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=AJOOK1&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
+<!-- ===== Top Languages ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajook1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJOOK1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
