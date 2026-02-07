@@ -1,0 +1,92 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- LIGHT THEME -->
+    <linearGradient id="lightBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+
+    <!-- DARK THEME -->
+    <linearGradient id="darkBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+
+    <!-- Accent -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: url(#darkBg); }
+      .title { fill: #e5e7eb; }
+      .subtitle { fill: #a5b4fc; }
+      .meta { fill: #94a3b8; }
+      .grid { stroke: #1e293b; }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .bg { fill: url(#lightBg); }
+      .title { fill: #020617; }
+      .subtitle { fill: #3730a3; }
+      .meta { fill: #475569; }
+      .grid { stroke: #cbd5f5; }
+    }
+
+    text {
+      font-family: Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    .fade {
+      animation: fadeUp 1.4s ease-out forwards;
+    }
+
+    .line {
+      animation: grow 1.6s ease-out forwards;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes grow {
+      from { width: 0; }
+      to { width: 160px; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="280" rx="24" class="bg"/>
+
+  <!-- Grid (subtle developer hint) -->
+  <g class="grid" stroke-width="1" opacity="0.25">
+    <line x1="80" y1="40" x2="80" y2="240"/>
+    <line x1="160" y1="40" x2="160" y2="240"/>
+    <line x1="240" y1="40" x2="240" y2="240"/>
+  </g>
+
+  <!-- Accent Line -->
+  <rect x="80" y="130" height="4" rx="2" fill="url(#accent)" class="line"/>
+
+  <!-- Text -->
+  <text x="80" y="105" font-size="46" font-weight="700" class="title fade">
+    Yash Mahajan
+  </text>
+
+  <text x="80" y="160" font-size="20" font-weight="500" class="subtitle fade">
+    Java · Full-Stack · Android Developer
+  </text>
+
+  <text x="80" y="195" font-size="15" class="meta fade">
+    GitHub · AJOOK1
+  </text>
+
+  <!-- Terminal hint -->
+  <text x="900" y="210" font-size="14" class="meta fade" opacity="0.6">
+    $ building · learning · shipping
+  </text>
+</svg>

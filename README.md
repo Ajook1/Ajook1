@@ -1,14 +1,6 @@
 <!-- ===================== HERO 3D ANIMATED BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f00ff&height=240&section=header&text=Yash%20Mahajan&fontSize=60&fontAlignY=38&animation=twinkling&desc=Java%20%7C%20Full-Stack%20%7C%20Android%20Developer&descAlignY=60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Building+Real-World+Software+Systems;Java+%7C+Backend+%7C+Full-Stack+Developer;Android+Development+%7C+REST+APIs;Clean+Code+%7C+Scalable+Architecture;Always+Learning+%7C+Always+Building" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajook1&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="assets/banner.svg" alt="Yash Mahajan | AJOOK1" />
 </p>
 
 ---
