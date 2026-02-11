@@ -160,7 +160,7 @@ This project clearly reflects my ability to **design, build, and connect complet
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="linkedin.com/in/yash-mahajan-205092259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Mahajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Ajook1" target="_blank">
