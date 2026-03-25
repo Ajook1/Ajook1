@@ -42,7 +42,7 @@ I believe strong fundamentals, consistency, and curiosity are what shape a solid
   <img src="https://skillicons.dev/icons?i=java,js,python,sql&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <i>Strong fundamentals with backend-oriented problem solving</i>
+  <i>Strong fundamentals with problem solving</i>
 </p>
 
 ---
@@ -62,7 +62,7 @@ I believe strong fundamentals, consistency, and curiosity are what shape a solid
   <img src="https://skillicons.dev/icons?i=android&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <i>Native Android development focused on performance and UX</i>
+  <i>Native Android development focused on performance</i>
 </p>
 
 ---
