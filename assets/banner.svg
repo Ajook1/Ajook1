@@ -87,6 +87,6 @@
 
   <!-- Terminal hint -->
   <text x="900" y="210" font-size="14" class="meta fade" opacity="0.6">
-    $ building · learning · shipping
+    $ building · learning 
   </text>
 </svg>
